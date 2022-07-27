@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bilal.
+- 👀 I’m interested in making programs.
+- 🌱 I’m currently learning courses of coding.
+- 📫 you can reach me in discord.
